@@ -14,7 +14,6 @@ body {
   margin: 0 50px;
 }
 
-
 .main-header {
   display: flex;
   justify-content: space-between;
@@ -78,6 +77,8 @@ section#featured-tea {
 #locations {
   background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
   height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #locations h2 {
@@ -115,7 +116,6 @@ footer {
   padding-bottom: 50px;
 }
 
-
 @media only screen and (max-width: 557px) {
   header {
     margin-top: 20px;
@@ -136,7 +136,6 @@ footer {
 
   section#mission {
     height: 400px;
-
   }
 
   .mission-title {
