@@ -10,7 +10,7 @@ In this project, I was challenged to create a fictional tea shop website.
 
 - [Logo](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-tea-cozy-logo.png)
 
--[Bedford Bizarre](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-bedford-bizarre.jpg)
+- [Bedford Bizarre](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-bedford-bizarre.jpg)
 
 - [Berry Blitz](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-berryblitz.jpg)
 
