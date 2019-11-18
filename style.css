@@ -38,7 +38,7 @@ a {
 
 section#mission {
   height: 700px;
-  background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-bedford-bizarre.jpg);
+  background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
   background-size: cover;
   position: relative;
 }
