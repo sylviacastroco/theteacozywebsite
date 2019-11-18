@@ -2,7 +2,7 @@
 
 In this project, I was challenged to create a fictional tea shop website.
 
-[Codecademy.com](https://www.codeademy.com) provided the design spec and images.
+[Codecademy.com](https://www.codeademy.com) provided the design specs and images.
 
 ## Resources
 
